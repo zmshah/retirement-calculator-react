@@ -5,4 +5,4 @@ Retirement Calculator in HTML, CSS and JavaScript using the React framework
 
 Demo:
 
-![alt text](blazor.gif)
+![alt text](retirement.gif)
